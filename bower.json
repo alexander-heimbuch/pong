@@ -1,0 +1,24 @@
+{
+  "name": "pong",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexander-heimbuch/pong",
+  "authors": [
+    "Alexander Heimbuch <a.heimbuch@epages.de>"
+  ],
+  "description": "PhysicsJS Pong Client",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "physicsjs": "~0.7.0",
+    "lodash": "~3.5.0",
+    "requirejs": "~2.1.16"
+  }
+}
